@@ -16,8 +16,7 @@ llm:
   # embeddings deployment is required when Zep is configured to use OpenAI embeddings
   #   embedding_deployment: "text-embedding-ada-002-customname"
   # Use only with an alternate OpenAI-compatible API endpoint
-  #secret kXKEH3saxUg3jJePufjcwyAF2s0VnEEs7Qcs-TQskkoSmqCPxs_L4mpyoFFgT6_QmUwrO2w3KlIS5WbY6ezfGw==
-  #jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.e30.jScnBXhtnznDOWwzyWuEYQr7o40LKuj_5czgcGdlQ-s
+  
   openai_endpoint:
   openai_org_id:
 nlp:
